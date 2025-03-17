@@ -27,4 +27,4 @@ print(square_numbers([-3, 0, 5]))    # Oczekiwany wynik: [9, 0, 25]
 > :no_entry: *Jeśli nie posiadasz materiałów do tego zadania tj. **PDF, projekt + Code Review**, znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/workshop-python-basics)*
 
 
-> :arrow_left: [*poprzednie zadanie*](./../03) | [*następne zadanie*](./../05) :arrow_right:
+> :arrow_left: [*poprzednie zadanie*](./../03) | [*następne zadanie*](./../06) :arrow_right:
