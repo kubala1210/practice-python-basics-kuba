@@ -21,13 +21,6 @@ def find_max_number(a, b, c):
     return ____________
 ```
 
-📌 **Przykłady użycia:**  
-```python
-print(find_max_number(3, 7, 5))  # Oczekiwany wynik: 7
-print(find_max_number(10, 2, 8)) # Oczekiwany wynik: 10
-```
-
-
 &nbsp;
 > :no_entry: *Jeśli nie posiadasz materiałów do tego zadania tj. **PDF, projekt + Code Review**, znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/workshop-python-basics)*
 
