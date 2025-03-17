@@ -4,8 +4,27 @@
 
 # `#04` Python: Podstawy
 
-Tutaj treść
+## Użyj funkcji wbudowanych do analizy listy  
 
+Twoim zadaniem jest **uzupełnić funkcję**, która zwróci trzy wartości dotyczące podanej listy liczb:  
+- jej **długość**  
+- **najmniejszą liczbę**  
+- **największą liczbę**  
+
+📌 **Instrukcja:**  
+1. Otwórz plik `analyze_list.py`, który zawiera kod do uzupełnienia.  
+2. Użyj odpowiednich **funkcji wbudowanych** w Pythonie, aby obliczyć:  
+   - długość listy  
+   - najmniejszy element  
+   - największy element  
+3. Funkcja powinna **zwracać krotkę** `(długość, min, max)`.  
+4. Nie używaj pętli `for` ani `while`.  
+
+📌 **Przykłady użycia:**  
+```python
+print(analyze_list([4, 7, 1, 9, 3]))  # Oczekiwany wynik: (5, 1, 9)
+print(analyze_list([-2, -8, 0, 5]))   # Oczekiwany wynik: (4, -8, 5)
+```
 
 &nbsp;
 

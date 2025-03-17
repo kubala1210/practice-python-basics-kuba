@@ -4,8 +4,14 @@
 
 # `#02` Python: Podstawy
 
-Tutaj treść
+## Znajdź liczby podzielne przez 3  
 
+Twoim zadaniem jest **napisać pętlę `for` z `range()` i dodać warunek `if`**, który wypisze tylko liczby podzielne przez **3**.  
+
+📌 **Instrukcja:**  
+1. Iteruj po liczbach od **1 do 20**.  
+2. Sprawdź, które z nich są **podzielne przez 3**.  
+3. Wypisz każdą liczbę spełniającą ten warunek w formacie: `"Liczba X jest podzielna przez 3"`.   
 
 &nbsp;
 > :no_entry: *Jeśli nie posiadasz materiałów do tego zadania tj. **PDF, projekt + Code Review**, znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/workshop-python-basics)*

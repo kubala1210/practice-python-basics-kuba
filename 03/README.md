@@ -5,7 +5,27 @@
 # `#03` Python: Podstawy
 
 
-Tutaj treść
+## Napisz funkcję zwracającą największą liczbę  
+
+Twoim zadaniem jest **uzupełnić funkcję**, która zwróci największą z trzech podanych liczb.  
+
+📌 **Instrukcja:**  
+1. Uzupełnij treść funkcji w pliku **main.py**, aby poprawnie porównywała trzy liczby.  
+2. Użyj instrukcji warunkowych `if`, aby znaleźć największą liczbę.  
+3. Funkcja powinna **zwracać** największą liczbę, a nie ją wypisywać.  
+4. Nie zmieniaj nagłówka funkcji ani argumentów.  
+
+```python
+def find_max_number(a, b, c):
+    # Uzupełnij kod, aby zwrócić największą liczbę
+    return ____________
+```
+
+📌 **Przykłady użycia:**  
+```python
+print(find_max_number(3, 7, 5))  # Oczekiwany wynik: 7
+print(find_max_number(10, 2, 8)) # Oczekiwany wynik: 10
+```
 
 
 &nbsp;

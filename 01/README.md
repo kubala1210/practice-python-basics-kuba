@@ -4,8 +4,24 @@
 
 # `#01` Python: Podstawy
 
+## Uzupełnij brakujące instrukcje warunkowe  
 
-Tutaj treść
+Poniższy kod nie sprawdza wszystkich przypadków. Twoim zadaniem jest **dopisać brakujące instrukcje `if`, `elif` lub `else`**, aby kod poprawnie analizował wartość zmiennej `number`.  
+
+```python
+number = 10
+
+if number > 15:
+    print("Liczba jest większa niż 15")
+# Dopisz brakujące warunki tutaj
+    
+```
+
+📌 **Twoje zadanie:**  
+🔹 Dopisz instrukcje warunkowe tak, aby:  
+- Jeśli `number` wynosi dokładnie `10`, wypisać `"Liczba wynosi 10"`  
+- Jeśli `number` jest mniejsze niż `10`, wypisać `"Liczba jest mniejsza niż 10"`  
+🔹 **Nie zmieniaj wartości zmiennej `number`!**
 
 
 &nbsp;

@@ -4,7 +4,23 @@
 
 # `#05` Python: Podstawy
 
-Tutaj treść
+## Użyj funkcji `lambda` do przekształcenia listy  
+
+Twoim zadaniem jest **uzupełnić funkcję**, która zwróci nową listę, w której każda liczba z podanej listy zostanie **podniesiona do kwadratu**, korzystając z funkcji anonimowej `lambda`.  
+
+📌 **Instrukcja:**  
+1. Otwórz plik `square_numbers.py`, który zawiera kod do uzupełnienia.  
+2. Użyj funkcji **`lambda`** oraz **`map()`**, aby podnieść każdą liczbę w liście do kwadratu.  
+3. Funkcja powinna **zwracać listę wynikową**, a nie obiekt `map`.  
+4. **Pamiętaj, że `map()` zwraca specjalny obiekt, który wymaga konwersji na listę!**  
+5. Nie używaj pętli `for`.  
+6. **Skorzystaj z dokumentacji Pythona** dotyczącej funkcji [`map()`](https://docs.python.org/3/library/functions.html#map), jeśli potrzebujesz pomocy.  
+
+📌 **Przykłady użycia:**  
+```python
+print(square_numbers([1, 2, 3, 4]))  # Oczekiwany wynik: [1, 4, 9, 16]
+print(square_numbers([-3, 0, 5]))    # Oczekiwany wynik: [9, 0, 25]
+```
 
 
 &nbsp;
