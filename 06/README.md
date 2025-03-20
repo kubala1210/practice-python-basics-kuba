@@ -24,10 +24,12 @@ print(fetch_data(weather_url))
 print(fetch_data(json_placeholder))
 ```  
 
-> **⭐ Podpowiedź:** Możesz użyć `response.status_code`, aby sprawdzić kod odpowiedzi i `response.text`, aby pobrać zawartość strony.  
-> **⭐ Podpowiedź:** Jeśli status kod jest różny od `200`, zwróć `"Błąd pobierania danych"`.  
+> **⭐ Podpowiedź:** 
+- Możesz użyć `response.status_code`, aby sprawdzić kod odpowiedzi i `response.text`, aby pobrać zawartość strony.  
+- Jeśli status kod jest różny od `200`, zwróć `"Błąd pobierania danych"`.  
+- Link do przykładowego [opisu](https://pypi.org/project/requests/) biblioteki request
 
 &nbsp;
 > :no_entry: *Jeśli nie posiadasz materiałów do tego zadania tj. **PDF, projekt + Code Review**, znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/workshop-python-basics)*
 
-> :arrow_left: [*poprzednie zadanie*](./../04) | ~~*następne zadanie*~~ :arrow_right:
+> :arrow_left: [*poprzednie zadanie*](./../05) | ~~*następne zadanie*~~ :arrow_right:
