@@ -1,3 +1,3 @@
 def find_max_number(a, b, c):
-    # Uzupełnij kod
-    return 
+    largest = max(a, b, c)
+    return largest
